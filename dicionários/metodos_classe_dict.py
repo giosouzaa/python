@@ -131,3 +131,6 @@ print(contatos)
 
 del contatos["guilherme@gmail.com"]
 print(contatos)
+
+del contatos #deleta o dicionários inteiro
+
