@@ -16,5 +16,5 @@ print(12//2)
 #Módulo (resto)
 print(10%3)
 
-#DExponenciação
+#Exponenciação
 print(2**3)
